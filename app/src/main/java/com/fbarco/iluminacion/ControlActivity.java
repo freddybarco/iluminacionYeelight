@@ -169,6 +169,7 @@ public class ControlActivity extends AppCompatActivity implements IWidgetActivit
                         }
                     } else {
                         Log.d(TAG,"mBos = null or mSocket is closed");
+
                     }
                 } catch (Exception e) {
                     e.printStackTrace();
