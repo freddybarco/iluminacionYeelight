@@ -37,6 +37,7 @@ public class ControlActivity extends AppCompatActivity implements IWidgetActivit
 
     private CircularSlider CS;
 
+    //nuevo comentario
 
     private int mCmdId;
     private int valuetime=15;
